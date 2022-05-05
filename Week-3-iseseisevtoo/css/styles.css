@@ -13,7 +13,7 @@ html {
 
 .movie-card {
     
-    margin-top: 50px;
+    margin-top: 5rem;
     height: 800px;
     text-align:center;
 }
@@ -36,7 +36,7 @@ html {
 
 .movie-poster-container img {
     margin-top: 2rem;
-    height: 35rem;
+    height: 500px;
     border-radius:20px;
     animation: spin 4s ease-in-out forwards;
    
